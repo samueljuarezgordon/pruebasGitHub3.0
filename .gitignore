@@ -1,0 +1,5 @@
+# Ignorar todos los archivos que no sean .java
+/out
+/.idea
+*.iml
+!*.java
